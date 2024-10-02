@@ -1,4 +1,4 @@
-## *Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation*
+## Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation
 
 ![results](https://github.com/adaptive-fam/Adaptive-FAM/blob/main/flame_blocks_small.png)
 
