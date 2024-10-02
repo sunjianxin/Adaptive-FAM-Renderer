@@ -1,4 +1,4 @@
-## Adaptive-FAM: *GPU-Accelerated Out-of-Core Volume Rendering with Functional Approximation and Adaptive Encoding for Interactive Exploration*
+## Adaptive-FAM: *Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation*
 
 ![results](https://github.com/adaptive-fam/Adaptive-FAM/blob/main/flame_blocks_small.png)
 
